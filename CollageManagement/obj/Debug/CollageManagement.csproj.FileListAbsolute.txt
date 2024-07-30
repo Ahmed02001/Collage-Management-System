@@ -1,0 +1,38 @@
+D:\Programming\C# Foundemantals\C# level1\CollageManagement\CollageManagement\bin\Debug\CollageManagement.exe.config
+D:\Programming\C# Foundemantals\C# level1\CollageManagement\CollageManagement\bin\Debug\CollageManagement.exe
+D:\Programming\C# Foundemantals\C# level1\CollageManagement\CollageManagement\bin\Debug\CollageManagement.pdb
+D:\Programming\C# Foundemantals\C# level1\CollageManagement\CollageManagement\obj\Debug\CollageManagement.csproj.AssemblyReference.cache
+D:\Programming\C# Foundemantals\C# level1\CollageManagement\CollageManagement\obj\Debug\CollageManagement.Form1.resources
+D:\Programming\C# Foundemantals\C# level1\CollageManagement\CollageManagement\obj\Debug\CollageManagement.Properties.Resources.resources
+D:\Programming\C# Foundemantals\C# level1\CollageManagement\CollageManagement\obj\Debug\CollageManagement.csproj.GenerateResource.cache
+D:\Programming\C# Foundemantals\C# level1\CollageManagement\CollageManagement\obj\Debug\CollageManagement.csproj.CoreCompileInputs.cache
+D:\Programming\C# Foundemantals\C# level1\CollageManagement\CollageManagement\obj\Debug\CollageManagement.exe
+D:\Programming\C# Foundemantals\C# level1\CollageManagement\CollageManagement\obj\Debug\CollageManagement.pdb
+D:\Programming\C# Foundemantals\C# level1\CollageManagement\CollageManagement\obj\Debug\CollageManagement.New_Admission.resources
+D:\Programming\C# Foundemantals\C# level1\CollageManagement\CollageManagement\obj\Debug\CollageManagement.UpgradeSemester.resources
+D:\Programming\C# Foundemantals\C# level1\CollageManagement\CollageManagement\obj\Debug\CollageManagement.Fees.resources
+D:\Programming\C# Foundemantals\C# level1\CollageManagement\CollageManagement\obj\Debug\CollageManagement.SearchStudent.resources
+D:\Programming\C# Foundemantals\C# level1\CollageManagement\CollageManagement\obj\Debug\CollageManagement.StudentIndividualDetails.resources
+D:\Programming\C# Foundemantals\C# level1\CollageManagement\CollageManagement\obj\Debug\CollageManagement.Add_Teacher.resources
+D:\Programming\C# Foundemantals\C# level1\CollageManagement\CollageManagement\obj\Debug\CollageManagement.SearchTeacher.resources
+D:\Programming\C# Foundemantals\C# level1\CollageManagement\CollageManagement\obj\Debug\CollageManagement.RemoveStudent.resources
+D:\Programming\C# Foundemantals\C# level1\CollageManagement\CollageManagement\obj\Debug\CollageManagement.AboutUs.resources
+D:\Programming\C# Foundemantals\CollageManagement\CollageManagement\bin\Debug\CollageManagement.exe.config
+D:\Programming\C# Foundemantals\CollageManagement\CollageManagement\bin\Debug\CollageManagement.exe
+D:\Programming\C# Foundemantals\CollageManagement\CollageManagement\bin\Debug\CollageManagement.pdb
+D:\Programming\C# Foundemantals\CollageManagement\CollageManagement\obj\Debug\CollageManagement.csproj.AssemblyReference.cache
+D:\Programming\C# Foundemantals\CollageManagement\CollageManagement\obj\Debug\CollageManagement.AboutUs.resources
+D:\Programming\C# Foundemantals\CollageManagement\CollageManagement\obj\Debug\CollageManagement.Add_Teacher.resources
+D:\Programming\C# Foundemantals\CollageManagement\CollageManagement\obj\Debug\CollageManagement.Fees.resources
+D:\Programming\C# Foundemantals\CollageManagement\CollageManagement\obj\Debug\CollageManagement.Form1.resources
+D:\Programming\C# Foundemantals\CollageManagement\CollageManagement\obj\Debug\CollageManagement.New_Admission.resources
+D:\Programming\C# Foundemantals\CollageManagement\CollageManagement\obj\Debug\CollageManagement.Properties.Resources.resources
+D:\Programming\C# Foundemantals\CollageManagement\CollageManagement\obj\Debug\CollageManagement.RemoveStudent.resources
+D:\Programming\C# Foundemantals\CollageManagement\CollageManagement\obj\Debug\CollageManagement.SearchStudent.resources
+D:\Programming\C# Foundemantals\CollageManagement\CollageManagement\obj\Debug\CollageManagement.SearchTeacher.resources
+D:\Programming\C# Foundemantals\CollageManagement\CollageManagement\obj\Debug\CollageManagement.StudentIndividualDetails.resources
+D:\Programming\C# Foundemantals\CollageManagement\CollageManagement\obj\Debug\CollageManagement.UpgradeSemester.resources
+D:\Programming\C# Foundemantals\CollageManagement\CollageManagement\obj\Debug\CollageManagement.csproj.GenerateResource.cache
+D:\Programming\C# Foundemantals\CollageManagement\CollageManagement\obj\Debug\CollageManagement.csproj.CoreCompileInputs.cache
+D:\Programming\C# Foundemantals\CollageManagement\CollageManagement\obj\Debug\CollageManagement.exe
+D:\Programming\C# Foundemantals\CollageManagement\CollageManagement\obj\Debug\CollageManagement.pdb
